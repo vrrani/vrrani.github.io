@@ -1,13 +1,13 @@
-title: John Doe # your name (or website title) here
+title: Reddy Rani V, PhD # your name (or website title) here
 logo: "/images/Portfolio.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Assistant Professor <br>
+  Department of Computer Science and Information Systems, BITS Pilani <br>
+  E-mail: vrrani@gmail.com
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  <a href="https://www.linkedin.com/in/ReddyRaniV/">LinkedIn</a> | 
+  <a https://scholar.google.com/citations?user=D_pNm7QAAAAJ&hl=en">Google scholar</a> | 
+  <a href="https://github.com/vrrani">Github</a>
+  <br>
+# google_analytics: UA-146834336-1 # your Google Analytics tracking ID here
+theme: jekyll-theme-minimal
