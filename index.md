@@ -21,9 +21,9 @@ Visualization (Health-informatics), Data Mining and Text Mining.
   - Advanced Data Mining (Autumn 2014)
   - Application Development for a Connected Society (Autumn 2018, Autumn 2019)
 
-  - <b>Senior Software Enginee</b> | October 2005 - October 2011
-    - <b>[SPAN Infotech (India) Private Ltd (Name changed to - Tietoevry)](https://www.evry.com/in/)</b>, Tietoevry, India
-    - Starting from JSE (Junior Software Engineer) to SSE (Senior Software Engineer), I worked on various projects and domains using C, VB.Net, IBM U2, ASP.NET and databases like SQL Server 9.0/2005 and PL-SQL. I developed strong analysis, coding and implementation skills over my tenure in SPAN Infotech. I also have exposure towards the quality procedures of the project.
+- <b>Senior Software Enginee</b> | October 2005 - October 2011
+  - <b>[SPAN Infotech (India) Private Ltd (Name changed to - Tietoevry)](https://www.evry.com/in/)</b>, Tietoevry, India
+  - Starting from JSE (Junior Software Engineer) to SSE (Senior Software Engineer), I worked on various projects and domains using C, VB.Net, IBM U2, ASP.NET and databases like SQL Server 9.0/2005 and PL-SQL. I developed strong analysis, coding and implementation skills over my tenure in SPAN Infotech. I also have exposure towards the quality procedures of the project.
 
 ### Education
 - <b>IIIT, Bangalore</b> |  
