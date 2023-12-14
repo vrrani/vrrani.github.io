@@ -13,7 +13,7 @@ Visualization (Health-informatics), Data Mining and Text Mining.
   - Research area: Bioinformatics, Real-world data analysis, Multimodal data analysis
 
 - <b>Ph.D. Student</b> | Aug 2016 - Aug 2021
-  - [GRAPHICS-VISUALIZATION-COMPUTING LAB](https://www.iiitb.ac.in/GVCL/) at <b>International Institute of Information Technology Bangalore (IIIT Bangalore)</b>, India
+  - <b> [Graphics Visualization Computing Lab](https://www.iiitb.ac.in/GVCL/) at International Institute of Information Technology Bangalore (IIIT Bangalore)</b>, India
   - Advised by Professor Jaya Sreevalsan Nair (https://sites.google.com/view/jaya-sreevalsan-nair/)
   - Research area:  Neuroinformatics, Information Visualization (Health-informatics), Bioinformatics, Multi-omics data integration, Network-based analysis
   
@@ -22,7 +22,7 @@ Visualization (Health-informatics), Data Mining and Text Mining.
   - Application Development for a Connected Society (Autumn 2018, Autumn 2019)
 
 - <b>Senior Software Enginee</b> | Oct 2005 - Oct 2011
-  - <b>[SPAN Infotech (India) Private Ltd (Name changed to - Tietoevry)](https://www.evry.com/in/)</b>, Tietoevry, India
+  - <b>[SPAN Infotech (India) Private Ltd (Name changed to - Tietoevry)](https://www.evry.com/in/), Tietoevry, India </b>
   - Starting from JSE (Junior Software Engineer) to SSE (Senior Software Engineer), I worked on various projects and domains using C, VB.Net, IBM U2, ASP.NET and databases like SQL Server 9.0/2005 and PL-SQL. I developed strong analysis, coding and implementation skills over my tenure in SPAN Infotech. I also have exposure towards the quality procedures of the project.
 
 ### Education
