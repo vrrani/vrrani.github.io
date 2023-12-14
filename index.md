@@ -45,8 +45,8 @@ Visualization (Health-informatics), Data Mining and Text Mining.
 ### Publications
 - <b>Journals/Magazine Articles</b> |
    - Jaya Sreevalsan-Nair, Anuj Mubayi, Janvi Chhabra, <b>Reddy Rani Vangimalla</b> and Pritesh Rajesh Ghogale ”Evaluating early pandemic response through length-of-stay   
-     analysis of case logs and epidemiological modeling: A case study of Singapore in early 2020” November 14, 2023. <b>Journal Computational and Mathematical 
-     Biophysics</b>, PMID: 35820016. [Paper](https://doi.org/10.1515/cmb-2023-0104)
+  analysis of case logs and epidemiological modeling: A case study of Singapore in early 2020” November 14, 2023. <b>Journal Computational and Mathematical 
+  Biophysics</b>, PMID: 35820016. [Paper](https://doi.org/10.1515/cmb-2023-0104)
  -
 
 
