@@ -51,10 +51,10 @@ Visualization (Health-informatics), Data Mining and Text Mining.
   - <b>Reddy Rani Vangimalla</b>, Hyun-hwan Jeong, Kyung-Ah Sohn. "Integrative regression network for genomic association study". <b>BMC Med Genomics</b> 9, 31 (2016).[Extended version of <b>TBC-2015</b>] [Paper](https://doi.org/10.1186/s12920-016-0192-7)
   - <b>Reddy Rani Vangimalla</b>, Kyung-Ah Sohn, "Association Networks Constructed from Heterogeneous High-dimensional Genomic Features". Communications of the Korean Institute of Information Scientists and Engineer <b>KIISE</b> 32(3):54-60, 2014 [Paper](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02373852)
 
-- <b> Patent </b>
+- <u><b> Patent </b></u>
   - <i>Name of Invention</i> : Method For Constructing Fused Regression Network And  Analysis : {DOI:10.8080/1020150167074.} [Patent](https://doi.org/10.8080/1020150167074?urlappend=en)
     
-- <u><b><u>Conferences & Book Chapters</u></b></u>
+- <u><b>Conferences & Book Chapters</b></u>
   - <b>Reddy Rani Vangimalla</b>, and J. Sreevalsan-Nair, "HCNM: Heterogeneous Correlation Network Model for Multi-level Integrative Study of Multi-omics Data for Cancer Subtype Prediction" November, 2021. Presented at 43rd Annual International Conferences of the IEEE Engineering in Medicine and Biology Society <b>EMBC-2021</b> [Paper](https://ieeexplore.ieee.org/document/9630781)
   - V. Sridhar, Jaya Sreevalsan-Nair, Pritesh Rajesh Ghogale, and <b>Reddy Rani Vangimalla</b>, "Sharing and Use of Non-Personal Health Information: Case of the COVID-19 Pandemic", Chapter 8, Book - Data Centric Living: Algorithms, Digitization and Regulation, <b>Routledge, Taylor & Francis Group, June, 2021</b>. ISBN 9780367536534 [Paper](https://doi.org/10.4324/9781003093442)
   - <b>Reddy Rani Vangimalla</b>, and J. Sreevalsan-Nair, "A  Multiscale  Consensus  Method  Using  Factor  Analysis  to  Extract Modular  Regions  in  the  Functional  Brain  Network,"  July, 2020.  Pressented at 42nd Annual International Conferences of the IEEE Engineering in Medicine and Biology Society <b>EMBC 2020</b> [Paper](https://ieeexplore.ieee.org/document/9175622)
@@ -62,7 +62,7 @@ Visualization (Health-informatics), Data Mining and Text Mining.
   - <b>Reddy Rani Vangimalla</b>, Hyun-hwan Jeong, Kyung-Ah Sohn. "Integrative regression network for genomic association study" Presented at <b>TBC-2015</b> [Paper](https://doi.org/10.1186/s12920-016-0192-7)
   - <b>Reddy Rani Vangimalla</b>, Kyung-Ah Sohn, "Discovering genomic associations on cancer datasets by applying sparse regression methods". Lecture Notes in Electrical Engineering, vol 339. <b>Springer</b>, Berlin, Heidelberg. Proceedings of <b>ICISA-2015</b> [Paper](https://doi.org/10.1007/978-3-662-46578-3)
 
-- <b> Posters & Others </b>
+- <u><b> Posters & Others </b></u>
   - <b>Reddy Rani Vangimalla</b>, and J. Sreevalsan-Nair, "Construction and Visualization of Diseasome of Lung Diseases Associated with COVID-19 from Co-association Networks of Multi-omics Data"  July, 2020. Poster presentation at 28th Annual International Conferences of Intelligent Systems for Molecular Biology <b>ISMB 2020, NetBio</b> [Poster](https://doi.org/10.7490/f1000research.1118138.1)
   - J. Sreevalsan-Nair, <b>Reddy Rani Vangimalla</b>, and Pritesh Rajesh Ghogale, "Influence of COVID-19 Transmission Stages and Demographics on Length of In-Hospital Stay in Singapore for the First 1000 Patients"  July, 2020.  Poster presentation at 28th Annual International Conferences of Intelligent Systems for Molecular Biology <b>ISMB 2020, COVID-19</b> [Poster](https://doi.org/10.7490/f1000research.1118104.1)
   - <b>Reddy Rani Vangimalla</b>, and J. Sreevalsan-Nair, "Consensus  Methods  for  Network  Analysis  of  Biomedical  Data:Case Studies on Brain Functional Connectivity Network and Gene-GeneAssociation  Networks"  February, 2020.  Presented at Doctoral Symposium of 4th International Conference on Computational Intelligence and Networks <b>CINE 2020</b> [PDF](https://www.researchgate.net/publication/340965820_Consensus_Methods_for_Network_Analysis_of_Biomedical_Data_Case_Studies_on_Brain_Functional_Connectivity_Network_and_Gene-Gene_Association_Networks)
