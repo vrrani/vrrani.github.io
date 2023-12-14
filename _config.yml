@@ -10,4 +10,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://github.com/vrrani">Github</a>
   <br>
 # google_analytics: UA-146834336-1 # your Google Analytics tracking ID here
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal 
