@@ -14,7 +14,7 @@ Visualization (Health-informatics), Data Mining and Text Mining.
 
 - <b>Ph.D. Student</b> | Aug 2016 - Aug 2021
   - <b> [Graphics Visualization Computing Lab](https://www.iiitb.ac.in/GVCL/) at International Institute of Information Technology Bangalore (IIIT Bangalore)</b>, India
-  - Advised by Professor Jaya Sreevalsan Nair (https://sites.google.com/view/jaya-sreevalsan-nair/)
+  - Advised by Professor [Jaya Sreevalsan Nair](https://sites.google.com/view/jaya-sreevalsan-nair/)
   - Research area:  Neuroinformatics, Information Visualization (Health-informatics), Bioinformatics, Multi-omics data integration, Network-based analysis
   
 - <b>Teaching Assistant</b> | 
