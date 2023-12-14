@@ -30,15 +30,15 @@ Visualization (Health-informatics), Data Mining and Text Mining.
   - <b>Ph.D.</b>, Computer Science, 2016 - 2021
   - Thesis: Novel Uses of Correlation Networks and Consensus Node-Communities for Biomedical Data Analysis 
     
-- <b>M.S. in Computer Science</b>, |
+- <b>M.S. in Computer Science</b> |
   - Ajou University, South Korea, 2013 - 2015
   - Thesis: Investigating Genomic Associations by Fusing Regression Methods on Cancer Profiles
    
-- <b>Korean Language Course</b>, |
+- <b>Korean Language Course</b> |
    - Kyung hee University, South Korea, Mar 2013 - Jun 2013
    - Completed basic level of language course
 
-- <b>Bachelors in Electronics and Communications  Engineering</b>, |
+- <b>Bachelors in Electronics and Communications  Engineering</b> |
   - Sri Krishna Devaraya University (SKU), India, 2002 - 2005
 
 ---
