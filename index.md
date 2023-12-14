@@ -37,8 +37,9 @@ Visualization (Health-informatics), Data Mining and Text Mining.
    - Kyung hee University, South Korea
    - Completed basic level of language course
 
-- <b>Bachelors in Electronics and Communications  Engineering</b> | 2002 - 2005
-  - Sri Krishna Devaraya University (SKU), India 
+- <b>B.Tech in ECE</b> | 2002 - 2005
+  - Sri Krishna Devaraya University (SKU), India
+  - Electronics and Communications  Engineering
 
 ---
 
