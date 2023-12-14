@@ -66,11 +66,6 @@ Visualization (Health-informatics), Data Mining and Text Mining.
 - <b> Patent </b>
   - <i>Name of Invention</i> : Method For Constructing Fused Regression Network And  Analysis : {DOI:10.8080/1020150167074.} [Patent](https://doi.org/10.8080/1020150167074?urlappend=en)
 
-
-
-
-
-
 ---
 <!-- p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p -->
 <!-- Remove above link if you don't want to attibute -->
