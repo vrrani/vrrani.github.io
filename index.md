@@ -23,27 +23,30 @@ Visualization (Health-informatics), Data Mining and Text Mining.
 ---
 
 ### Education
-- <b>IIIT, Bangalore</b>  
-  - <b>Ph.D.</b> Computer Science, 2016 - 2021
+- <b>IIIT, Bangalore</b> | Aug 2016 - Apr 2021
+  - <b>Ph.D.</b> Computer Science 
   - Advisor [Prof. Jaya Sreevalsan Nair](https://sites.google.com/view/jaya-sreevalsan-nair/)
   - Thesis: Novel Uses of Correlation Networks and Consensus Node-Communities for Biomedical Data Analysis 
     
-- <b>M.S. in Computer Science</b>
-  - Ajou University, South Korea, 2013 - 2015
+- <b>M.S. in Computer Science</b> | Sep 2013 - Aug 2015
+  - Ajou University, South Korea 
   - Advisor [Prof. Kyung-Ah Sohn](https://sites.google.com/site/kasohn/home) 
   - Thesis: Investigating Genomic Associations by Fusing Regression Methods on Cancer Profiles
    
-- <b>Korean Language Course</b>
-   - Kyung hee University, South Korea, Mar 2013 - Jun 2013
+- <b>Korean Language Course</b> | Mar 2013 - Jun 2013
+   - Kyung hee University, South Korea
    - Completed basic level of language course
 
-- <b>Bachelors in Electronics and Communications  Engineering</b> |
-  - Sri Krishna Devaraya University (SKU), India, 2002 - 2005
+- <b>Bachelors in Electronics and Communications  Engineering</b> | 2002 - 2005
+  - Sri Krishna Devaraya University (SKU), India 
 
 ---
 
 ### Publications
 - <u><b>Journals/Magazine Articles</b></u>
+
+--
+
   - Jaya Sreevalsan-Nair, Anuj Mubayi, Janvi Chhabra, <b>Reddy Rani Vangimalla</b> and Pritesh Rajesh Ghogale ”Evaluating early pandemic response through length-of-stay analysis of case logs and epidemiological modelling: A case study of Singapore in early 2020” November 14, 2023. <b>Journal Computational and Mathematical Biophysics</b>, PMID: 35820016. [Paper](https://doi.org/10.1515/cmb-2023-0104)
   - <b>Reddy Rani Vangimall</b>, Jaya Sreevalsan-Nair "Communities and Cliques in Functional Brain Network Using Multiscale Consensus Approach" July, 2022. <b>IEEE Transactions on Neural Systems and Rehabilitation Engineering</b>, PMID: 35820016. [Paper](https://ieeexplore.ieee.org/document/9826786)
   - Urvakhsh Meherwan Mehta, Darshan Shadakshari, Pulaparambil Vani, Shalini S Naik, V Kiran Raj, <b>Reddy Rani Vangimalla</b>, YC Janardhan Reddy, Jaya Sreevalsan-Nair, and Rose Dawn Bharath, "Case Report: Obsessive compulsive disorder in posterior cerebellar infarction - illustrating clinical and functional connectivity modulation using MRI-informed transcranial magnetic stimulation." Sep, 2020. <b>Wellcome Open Res 2020</b>, 5:189, PMID: 32995558 PMCID: PMC7503177. [Paper](https://doi.org/10.12688/wellcomeopenres.16183.2)
