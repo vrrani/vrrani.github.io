@@ -12,7 +12,7 @@ Visualization (Health-informatics), Data Mining and Text Mining.
   - <b>[ZS Associates India Pvt. Ltd](https://www.zs.com/)</b>, ZS Associates, India
   - Research area: Bioinformatics, Real-world data analysis, Multimodal data analysis
 
-- <b>Teaching Assistant</b> | 
+- <b>Teaching Assistant</b>  
   - Advanced Data Mining (Autumn 2014)
   - Application Development for a Connected Society (Autumn 2018, Autumn 2019)
 
