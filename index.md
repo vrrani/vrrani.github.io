@@ -44,12 +44,12 @@ Visualization (Health-informatics), Data Mining and Text Mining.
 ---
 
 ### Publications
-- <u><b>Journals/Magazine Articles</b></u>
+- <u><b>Journals</b></u>
   - Jaya Sreevalsan-Nair, Anuj Mubayi, Janvi Chhabra, <b>Reddy Rani Vangimalla</b> and Pritesh Rajesh Ghogale ”Evaluating early pandemic response through length-of-stay analysis of case logs and epidemiological modelling: A case study of Singapore in early 2020” November 14, 2023. <b>Journal Computational and Mathematical Biophysics</b>, PMID: 35820016. [Paper](https://doi.org/10.1515/cmb-2023-0104)
   - <b>Reddy Rani Vangimall</b>, Jaya Sreevalsan-Nair "Communities and Cliques in Functional Brain Network Using Multiscale Consensus Approach" July, 2022. <b>IEEE Transactions on Neural Systems and Rehabilitation Engineering</b>, PMID: 35820016. [Paper](https://ieeexplore.ieee.org/document/9826786)
-  - Urvakhsh Meherwan Mehta, Darshan Shadakshari, Pulaparambil Vani, Shalini S Naik, V Kiran Raj, <b>Reddy Rani Vangimalla</b>, YC Janardhan Reddy, Jaya Sreevalsan-Nair, and Rose Dawn Bharath, "Case Report: Obsessive compulsive disorder in posterior cerebellar infarction - illustrating clinical and functional connectivity modulation using MRI-informed transcranial magnetic stimulation." Sep, 2020. <b>Wellcome Open Res 2020</b>, 5:189, PMID: 32995558 PMCID: PMC7503177. [Paper](https://doi.org/10.12688/wellcomeopenres.16183.2)
-  - <b>Reddy Rani Vangimalla</b>, Hyun-hwan Jeong, Kyung-Ah Sohn. "Integrative regression network for genomic association study". <b>BMC Med Genomics</b> 9, 31 (2016).[Extended version of <b>TBC-2015</b>] [Paper](https://doi.org/10.1186/s12920-016-0192-7)
-  - <b>Reddy Rani Vangimalla</b>, Kyung-Ah Sohn, "Association Networks Constructed from Heterogeneous High-dimensional Genomic Features". Communications of the Korean Institute of Information Scientists and Engineer <b>KIISE</b> 32(3):54-60, 2014 [Paper](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02373852)
+  - Urvakhsh Meherwan Mehta, Darshan Shadakshari, Pulaparambil Vani, Shalini S Naik, V Kiran Raj, <b>Reddy Rani Vangimalla</b>, YC Janardhan Reddy, Jaya Sreevalsan-Nair, and Rose Dawn Bharath, "Case Report: Obsessive compulsive disorder in posterior cerebellar infarction - illustrating clinical and functional connectivity modulation using MRI-informed transcranial magnetic stimulation" Sep, 2020. <b>Wellcome Open Res 2020</b>, 5:189, PMID: 32995558 PMCID: PMC7503177. [Paper](https://doi.org/10.12688/wellcomeopenres.16183.2)
+  - <b>Reddy Rani Vangimalla</b>, Hyun-hwan Jeong, Kyung-Ah Sohn "Integrative regression network for genomic association study" <b>BMC Med Genomics</b> 9, 31 (2016).[Extended version of <b>TBC-2015</b>] [Paper](https://doi.org/10.1186/s12920-016-0192-7)
+  - <b>Reddy Rani Vangimalla</b>, Kyung-Ah Sohn "Association Networks Constructed from Heterogeneous High-dimensional Genomic Features" Communications of the Korean Institute of Information Scientists and Engineer <b>KIISE</b> 32(3):54-60, 2014 [Paper](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02373852)
 
 - <u><b> Patent </b></u>
   - <i>Name of Invention</i> : Method For Constructing Fused Regression Network And  Analysis : {DOI:10.8080/1020150167074.} [Patent](https://doi.org/10.8080/1020150167074?urlappend=en)
