@@ -23,8 +23,8 @@ Visualization (Health-informatics), Data Mining and Text Mining.
 ---
 
 ### Education
-- <b>IIIT, Bangalore</b> | Aug 2016 - Apr 2021
-  - <b>Ph.D.</b> Computer Science 
+- <b>Ph.D. in Computer Science</b> | Aug 2016 - Apr 2021
+  - International Institute of Information Technology, Bangalore, India  
   - Advisor [Prof. Jaya Sreevalsan Nair](https://sites.google.com/view/jaya-sreevalsan-nair/)
   - Thesis: Novel Uses of Correlation Networks and Consensus Node-Communities for Biomedical Data Analysis 
     
