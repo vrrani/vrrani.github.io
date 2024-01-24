@@ -6,7 +6,7 @@ Visualization (Health-informatics), Data Mining and Text Mining.
  
 ### Experience
 - <b>Assistant Professor</b> || Jan 2024 - Present
-  -  Department of Computer Science and Information Systems, <b>BITS Pilani</b>, India
+  -  Department of Computer Science and Information Systems, <b>[BITS Pilani](https://academic.bits-pilani.ac.in/)</b>, India
 
 - <b>Advanced Data Science Consultant</b> || Apr 2021 - Dec2023
   - <b>[ZS Associates India Pvt. Ltd](https://www.zs.com/)</b>, ZS Associates, India
