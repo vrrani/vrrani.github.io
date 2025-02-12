@@ -11,21 +11,22 @@ Visualization (Health-informatics), Data Mining and Text Mining.
 - <b>Advanced Data Science Consultant</b> || Apr 2021 - Dec2023
   - <b>[ZS Associates India Pvt. Ltd](https://www.zs.com/)</b>, ZS Associates, India
   - Research areas: Bioinformatics, Real-world data analysis, Multimodal data analysis
-
+ 
 - <b>Courses Taught</b>  
-  - Advanced Data Mining (Autumn 2014)
-  - Application Development for a Connected Society (Autumn 2018, Autumn 2019)
-  - 
-- <b>Teaching Assistant</b>  
   - Data Visualization and Interpretation
   - Data Mining
   - Software Testing Methodologies
   - Introduction to Data Science
   - Graph Algorithms and Mining
+    
 - <b>Teaching Assistant</b>  
   - Introduction to Bioinformatics (Coursera – 4 modules)
   - Introduction to Bioinformatics (iGOT platform – in progress)
-
+    
+- <b>Teaching Assistant</b>  
+  - Advanced Data Mining (Autumn 2014)
+  - Application Development for a Connected Society (Autumn 2018, Autumn 2019)
+    
 - <b>Senior Software Enginee</b> || Oct 2005 - Oct 2011
   - <b>[SPAN Infotech (India) Private Ltd (Name changed to - Tietoevry)](https://www.evry.com/in/), Tietoevry, India </b>
   - Starting from JSE (Junior Software Engineer) to SSE (Senior Software Engineer), I worked on various projects and domains using C, VB.Net, IBM U2, ASP.NET and databases like SQL Server 9.0/2005 and PL-SQL. I developed strong analysis, coding and implementation skills over my tenure in SPAN Infotech. I also have exposure towards the quality procedures of the project.
