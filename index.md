@@ -15,13 +15,13 @@ Visualization (Health-informatics), Data Mining and Text Mining.
      - Introduction to Data Science
      - Graph Algorithms and Mining (Starting Shortly)
         
- - <i>Digital Content</i>  
-   - Introduction to Bioinformatics (Coursera – 4 modules)
-   - Introduction to Bioinformatics (iGOT platform – in progress)
+   - <i>Digital Content</i>  
+     - Introduction to Bioinformatics (Coursera – 4 modules)
+     - Introduction to Bioinformatics (iGOT platform – in progress)
     
- - <i>Teaching Assistant</i>  
-   - Advanced Data Mining (Autumn 2014)
-   - Application Development for a Connected Society (Autumn 2018, Autumn 2019)
+   - <i>Teaching Assistant</i>  
+     - Advanced Data Mining (Autumn 2014)
+     - Application Development for a Connected Society (Autumn 2018, Autumn 2019)
     
 - <b>Advanced Data Science Consultant</b> || Apr 2021 - Dec2023
   - <b>[ZS Associates India Pvt. Ltd](https://www.zs.com/)</b>, ZS Associates, India
