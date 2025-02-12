@@ -6,16 +6,19 @@ Visualization (Health-informatics), Data Mining and Text Mining.
  
 ### Experience
 - <b>Assistant Professor</b> || Jan 2024 - Present
-  -  Department of Computer Science and Information Systems, <b>[BITS Pilani](https://academic.bits-pilani.ac.in/)</b>, India    
+  -  Department of Computer Science and Information Systems, <b>[BITS Pilani](https://academic.bits-pilani.ac.in/)</b>, India
+    
    - <i>Courses Taught</i>  
      - Data Visualization and Interpretation
      - Data Mining
      - Software Testing Methodologies
      - Introduction to Data Science
-     - Graph Algorithms and Mining (Starting Shortly)        
+     - Graph Algorithms and Mining (Starting Shortly)
+             
    - <i>Digital Content</i>  
      - Introduction to Bioinformatics (Coursera – 4 modules)
-     - Introduction to Bioinformatics (iGOT platform – in progress)    
+     - Introduction to Bioinformatics (iGOT platform – in progress)
+           
    - <i>Teaching Assistant</i>  
      - Advanced Data Mining (Autumn 2014)
      - Application Development for a Connected Society (Autumn 2018, Autumn 2019)
