@@ -12,9 +12,19 @@ Visualization (Health-informatics), Data Mining and Text Mining.
   - <b>[ZS Associates India Pvt. Ltd](https://www.zs.com/)</b>, ZS Associates, India
   - Research areas: Bioinformatics, Real-world data analysis, Multimodal data analysis
 
-- <b>Teaching Assistant</b>  
+- <b>Courses Taught</b>  
   - Advanced Data Mining (Autumn 2014)
   - Application Development for a Connected Society (Autumn 2018, Autumn 2019)
+  - 
+- <b>Teaching Assistant</b>  
+  - Data Visualization and Interpretation
+  - Data Mining
+  - Software Testing Methodologies
+  - Introduction to Data Science
+  - Graph Algorithms and Mining
+- <b>Teaching Assistant</b>  
+  - Introduction to Bioinformatics (Coursera – 4 modules)
+  - Introduction to Bioinformatics (iGOT platform – in progress)
 
 - <b>Senior Software Enginee</b> || Oct 2005 - Oct 2011
   - <b>[SPAN Infotech (India) Private Ltd (Name changed to - Tietoevry)](https://www.evry.com/in/), Tietoevry, India </b>
