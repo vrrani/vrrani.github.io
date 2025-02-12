@@ -1,4 +1,4 @@
- title: Reddy Rani V, PhD # your name (or website title) here
+title: Reddy Rani V, PhD # your name (or website title) here
 logo: "/images/Rani_Circle.png?raw=true" # your photo (or logo) here 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Assistant Professor <br>
@@ -6,9 +6,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   E-mail:  reddy.rani@pilani.bits-pilani.ac.in
   <br><br>
   <a href="https://www.linkedin.com/in/ReddyRaniV/">LinkedIn</a> | 
-  <a href="https://scholar.google.com/citations?user=D_pNm7QAAAAJ&hl=en">Google Scholar</a> | 
+  <a https://scholar.google.com/citations?user=D_pNm7QAAAAJ&hl=en">Google scholar</a> | 
   <a href="https://bits-pilani.irins.org/profile/493757">IRINS</a> |
   <a href="https://github.com/vrrani">Github</a> 
   <br>  
 # google_analytics: UA-146834336-1 # your Google Analytics tracking ID here
-theme: jekyll-theme-minimal  
+theme: jekyll-theme-minimal
