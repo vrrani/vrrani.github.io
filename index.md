@@ -19,7 +19,7 @@ Visualization (Health-informatics), Data Mining and Text Mining.
   - Introduction to Data Science
   - Graph Algorithms and Mining (Starting Shortly)
     
-- <b>Teaching Assistant</b>  
+- <b>Digital Content</b>  
   - Introduction to Bioinformatics (Coursera – 4 modules)
   - Introduction to Bioinformatics (iGOT platform – in progress)
     
