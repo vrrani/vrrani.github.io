@@ -17,7 +17,7 @@ Visualization (Health-informatics), Data Mining and Text Mining.
   - Data Mining
   - Software Testing Methodologies
   - Introduction to Data Science
-  - Graph Algorithms and Mining
+  - Graph Algorithms and Mining (Starting Shortly)
     
 - <b>Teaching Assistant</b>  
   - Introduction to Bioinformatics (Coursera – 4 modules)
