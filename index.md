@@ -9,12 +9,13 @@ Visualization (Health-informatics), Data Mining and Text Mining.
   -  Department of Computer Science and Information Systems, <b>[BITS Pilani](https://academic.bits-pilani.ac.in/)</b>, India
     
    - <i>Courses Taught</i>  
-     - Data Visualization and Interpretation
-     - Data Mining
      - Machine Learning
+     - Data Mining
+     - Information Retrieval
      - Introduction to Data Science
+     - Data Visualization and Interpretation
      - Software Testing Methodologies
-             
+                  
    - <i>Digital Content</i>  
      - Introduction to Bioinformatics (Coursera – 4 modules)
      - Introduction to Bioinformatics (iGOT platform – in progress)
