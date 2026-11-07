@@ -17,8 +17,8 @@ Visualization (Health-informatics), Data Mining and Text Mining.
      - Software Testing Methodologies
                   
    - <i>Digital Content</i>  
-     - Introduction to Bioinformatics (Coursera – 4 modules)
-     - Introduction to Bioinformatics (iGOT platform – in progress)
+     - Introduction to Bioinformatics (Coursera): A Massive Open Online Course (MOOC) with 7,500+ enrolled to date (Nov, 2026)
+     - Introduction to Bioinformatics (iGOT Karmayogi Bharat): a learning platform for civil service officials to enhance their competencies.
            
    - <i>Teaching Assistant</i>  
      - Advanced Data Mining (Autumn 2014)
